@@ -28,3 +28,11 @@ Bruce Mitchell and Fred C. Robinson, A *Guide to Old English,* 8<sup>th</sup> ed
 Stephen Barney, *Word-Hoard,* 2<sup>nd</sup> edition (Yale), 1985. ISBN: ‎9780300035063. 
 
 *Beowulf,* trans. Seamus Heaney (Norton), 2001. ISBN: ‎9780393320978. \[Preview with [Google Books](https://www.google.com/books/edition/Beowulf_a_New_Verse_Translation_Bilingua/m-7crEM3A0AC?hl=en&gbpv=1)\]
+
+### Optional
+
+Greg Delanty and Michael Matto, eds. *The Word Exchange: Anglo-Saxon Poems in Translation* (Norton), 2011. ISBN: ‎9780393342413. \[Preview with [Google Books](https://www.google.com/books/edition/The_Word_Exchange_Anglo_Saxon_Poems_in_T/qEWVeKy3vtMC?hl=en&gbpv=1)\]
+
+J.R. Clark-Hall, A *Concise Anglo-Saxon Dictionary* (Toronto), 1961. ISBN: 9780802065483. \[Preview with [Google Books](https://www.google.com/books/edition/A_Concise_Anglo_Saxon_Dictionary/eLYiXNHnQWsC?hl=en&gbpv=1)\]
+
+Our main textbook will be Baker's *Introduction to Old English* (IOE), but I am asking you to get Mitchell and Robinson (M&R) as well because their handling of the grammar is more detailed and technical; that may appeal to some of you, and all of us will benefit from having the same grammatical principles laid out in different ways. (M&R also includes several texts we will be working with that IOE inexplicably does not, including *Beowulf).*
