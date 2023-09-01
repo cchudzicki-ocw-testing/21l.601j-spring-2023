@@ -25,6 +25,6 @@ Peter Baker, *Introduction to Old English,* 3<sup>rd</sup> edition (Wiley-Blackw
 
 Bruce Mitchell and Fred C. Robinson, A *Guide to Old English,* 8<sup>th</sup> edition (Wiley-Blackwell), 2011. ISBN: ‎9780470671078. \[Preview with [Google Books](https://www.google.com/books/edition/A_Guide_to_Old_English/hwzlYFlKlOoC?hl=en&gbpv=1)\]
 
-Stephen Barney, *Word-Hoard,* 2<sup>nd</sup> edition*.* (Yale), 1985. ISBN: ‎9780300035063. 
+Stephen Barney, *Word-Hoard,* 2<sup>nd</sup> edition (Yale), 1985. ISBN: ‎9780300035063. 
 
 *Beowulf,* trans. Seamus Heaney (Norton), 2001. ISBN: ‎9780393320978. \[Preview with [Google Books](https://www.google.com/books/edition/Beowulf_a_New_Verse_Translation_Bilingua/m-7crEM3A0AC?hl=en&gbpv=1)\]
