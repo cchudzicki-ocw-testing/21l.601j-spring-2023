@@ -9,6 +9,10 @@ uid: 2b7fed0e-24ce-4b2c-a030-f50943e61bd2
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
+## Prerequisites
+
+There are no prerequisites for this course.
+
 ## Course Description
 
 hƿæt ƿe gardena in geardagum þeodcyninga þrym gefrunon hu ða æþelingas ellen fremedon…
@@ -36,3 +40,9 @@ Greg Delanty and Michael Matto, eds. *The Word Exchange: Anglo-Saxon Poems in Tr
 J.R. Clark-Hall, A *Concise Anglo-Saxon Dictionary* (Toronto), 1961. ISBN: 9780802065483. \[Preview with [Google Books](https://www.google.com/books/edition/A_Concise_Anglo_Saxon_Dictionary/eLYiXNHnQWsC?hl=en&gbpv=1)\]
 
 Our main textbook will be Baker's *Introduction to Old English* (IOE), but I am asking you to get Mitchell and Robinson (M&R) as well because their handling of the grammar is more detailed and technical; that may appeal to some of you, and all of us will benefit from having the same grammatical principles laid out in different ways. (M&R also includes several texts we will be working with that IOE inexplicably does not, including *Beowulf).*
+
+*Word-Hoard* is a wonderful guide to the most common word-groups of the Old English poetic corpus. Its word-groups are organized with attention to shared etymologies that will help anyone who has studied another Indo-European language, and will interest anyone with any degree of native curiosity (which you clearly have, or you wouldn't have signed up for Old English). Its word-groups will also serve as the basis of your daily vocabulary quizzes.
+
+Finally, I am assigning Seamus Heaney's translation of *Beowulf,* whose popularity is well-deserved despite its occasional idiosyncrasies. (The version that I assign also includes the Old English text, which will prove handy when we come to work with the original.) You may acquire any edition of these textbooks that has the assigned readings, but it is YOUR responsibility to make sure that it does indeed have them (consult the {{% resource_link "a0af5939-e450-481c-9869-3183e49c4fb6" "Readings" %}} section); one thing editors sometimes do between editions is change up reading selections.
+
+I have also assigned two optional texts. *The Word Exchange* is a very cool set of loose, poetic renderings of the entire Old English poetic corpus (save *Beowulf,* of which many translations exist). We will discuss a few of these early in the semester while we're knee-deep in grammar, but those who are interested (or completionists) may be interested in the whole volume. Finally, Clark-Hall is the standard "intermediate" dictionary if you want a hard copy.
