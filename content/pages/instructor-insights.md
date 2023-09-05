@@ -10,9 +10,9 @@ uid: 00287e91-1c5d-408d-a27b-65c2c99a0a94
 
 Below, Prof. Arthur Bahr describes various aspects of how he taught *21L.601J Old English and Beowulf* in the spring of 2023.
 
-- The Challenge of Learning Old English
-- Selecting the Assigned Texts
-- Priorities for Student Learning
+- {{% resource_link "c5861f35-69ab-4fa9-9b3b-71a792b86ec4" "The Challenge of Learning Old English" %}}
+- {{% resource_link "ade290ef-bb5f-4fba-9f1c-5896fc361a0e" "Selecting the Assigned Texts" %}}
+- {{% resource_link "dd07392c-e035-4ab5-8ad6-cd73eb98a18e" "Priorities for Student Learning" %}}
 - The Mental Health Day
 - How the Course Has Evolved
 - Plans for Future Iterations of the Course
