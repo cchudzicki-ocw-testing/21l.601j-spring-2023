@@ -1,13 +1,13 @@
 ---
 content_type: page
 description: In this section, Prof. Arthur Bahr describes the relative importance
-  of learning to read (and speak) Old English, and the relative importance of learning
-  to understand the culture of early-medieval England.
+  of learning to read and speak Old English, and explains how by studying literary
+  texts students also learn about the culture of early-medieval England.
 draft: false
 title: Priorities for Student Learning
 uid: dd07392c-e035-4ab5-8ad6-cd73eb98a18e
 ---
-*In this section, Prof. Arthur Bahr describes the relative importance of learning to read and speak Old English, and how by studying literary texts students also learn about the culture of early-medieval England.*
+*In this section, Prof. Arthur Bahr describes the relative importance of learning to read and speak Old English, and explains how by studying literary texts students also learn about the culture of early-medieval England.*
 
 I joke that I want students to end the semester with “Hollywood archaeologist”-level knowledge of Old English. That is, if they find themselves with an unfamiliar text in Old English and an audience of eager onlookers, they should know enough to explain the gist of what it’s about, even if they can’t translate every word and clause precisely. That’s why I include sight translation on all three exams, using vocabulary that students memorize from Stephen Barney’s *Word-Hoard*, a brilliant guide to the most common poetic vocabulary in Old English. (Each class starts with a vocab quiz.)
 
