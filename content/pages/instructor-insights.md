@@ -50,7 +50,7 @@ Fewer than 10 students
 
 #### **Student Background**
 
-Most were juniors or seniors, but there were a few sophomores and one first-year student. Almost all had primary majors in science or engineering departments, but most had a second major in the School of Humanities and Social Sciences, concentrating in ancient and medieval studies (AMS), linguistics, and/or literature.
+Most were juniors or seniors, but there were a few sophomores and one first-year. Almost all had primary majors in science or engineering departments, but most had a second major in the School of Humanities and Social Sciences, concentrating in Ancient and Medieval Studies (AMS), Linguistics, and/or Literature.
 
 ### **How Student Time Was Spent**
 
@@ -62,4 +62,4 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 #### **Out of Class**
 
-- Outside of class, students completed the assigned problem sets and worked on their final project and presentation.
+- Outside of class, students completed the assigned readings, studied vocabulary and grammar in preparation for exams and quizzes, and
