@@ -15,7 +15,7 @@ Below, Prof. Arthur Bahr describes various aspects of how he taught *21L.601J Ol
 - {{% resource_link "dd07392c-e035-4ab5-8ad6-cd73eb98a18e" "Priorities for Student Learning" %}}
 - {{% resource_link "93f44141-a5d4-4369-a11e-6fd512c0ce99" "The Mental Health Day" %}}
 - {{% resource_link "f65cab6a-23fd-4f8d-96fa-59ec4dae2979" "How the Course Has Evolved" %}}
-- Plans for Future Iterations of the Course
+- {{% resource_link "5b222837-c66c-40a5-900b-4b42ce969820" "Plans for Future Iterations of the Course" %}}
 
 ### **Curriculum Information**
 
