@@ -46,7 +46,7 @@ Students’ grades were based on the following activities:
 
 #### **Enrollment**
 
-Fewer than 10 students
+10 students
 
 #### **Student Background**
 
