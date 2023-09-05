@@ -3,7 +3,11 @@ leftnav:
   name: Syllabus
   pageRef: /pages/syllabus
   weight: 10
+- identifier: 00287e91-1c5d-408d-a27b-65c2c99a0a94
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
 - identifier: a0af5939-e450-481c-9869-3183e49c4fb6
   name: Readings
   pageRef: /pages/readings
-  weight: 20
+  weight: 30
