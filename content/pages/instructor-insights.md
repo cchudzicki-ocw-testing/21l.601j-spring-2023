@@ -50,7 +50,7 @@ Students’ grades were based on the following activities:
 
 #### **Student Background**
 
-Most were juniors or seniors, but there were a few sophomores and one first-year. Almost all had primary majors in science or engineering departments, but most had a second major in the School of Humanities and Social Sciences, concentrating in Ancient and Medieval Studies (AMS), Linguistics, and/or Literature.
+Most were juniors or seniors, but there were a few sophomores and one first-year student. Almost all had primary majors in science or engineering, but most had a second major in the School of Humanities and Social Sciences, concentrating in ancient and medieval studies (AMS), linguistics, and/or literature.
 
 ### **How Student Time Was Spent**
 
