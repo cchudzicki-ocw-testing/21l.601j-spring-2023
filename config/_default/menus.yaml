@@ -26,3 +26,13 @@ leftnav:
   pageRef: /pages/priorities-for-student-learning
   parent: 00287e91-1c5d-408d-a27b-65c2c99a0a94
   weight: 30
+- identifier: 93f44141-a5d4-4369-a11e-6fd512c0ce99
+  name: The Mental Health Day
+  pageRef: /pages/the-mental-health-day
+  parent: 00287e91-1c5d-408d-a27b-65c2c99a0a94
+  weight: 40
+- identifier: f65cab6a-23fd-4f8d-96fa-59ec4dae2979
+  name: How the Course Has Evolved
+  pageRef: /pages/how-the-course-has-evolved
+  parent: 00287e91-1c5d-408d-a27b-65c2c99a0a94
+  weight: 50
