@@ -40,3 +40,15 @@ No readings assigned.
 \[WE\] "The Wanderer," and "Deor." **\[In-class translation: Minitext A.\]**
 
 \[WH\] Word Groups 7–12.
+
+### Session 4
+
+\[IOE\], pp. 50–63 (Nouns). 
+
+\[M & R\], pp. 20–30 (Pronouns). \[Preview with [Google Books](https://www.google.com/books/edition/A_Guide_to_Old_English/hwzlYFlKlOoC?hl=en&gbpv=1)\]
+
+Burton Raffel's translations of the Elegies. In *Poems and Prose from the Old English*. 2<sup>nd</sup> ed. Yale University Press, 1998. ISBN: ‎9780300069952. 
+
+ **\[In-class translation: Minitext B.\]**
+
+\[WH\] Word Groups 13–22.
