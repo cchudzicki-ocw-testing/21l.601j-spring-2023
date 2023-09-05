@@ -30,3 +30,13 @@ No readings assigned.
 \[WE\] ''The Rune Poem" and "The Icelandic Rune Poem."
 
 \[WH\] "Introduction" and Word Groups 1–6.
+
+### Session 3
+
+\[IOE\], pp. 41–49 (Pronouns). \[Preview with [Google Books](https://www.google.com/books/edition/Introduction_to_Old_English/plIqudth2IwC?hl=en&gbpv=1)\]
+
+\[M & R\], pp. 17–19 (Pronouns). \[Preview with [Google Books](https://www.google.com/books/edition/A_Guide_to_Old_English/hwzlYFlKlOoC?hl=en&gbpv=1)\]
+
+\[WE\] "The Wanderer," and "Deor." **\[In-class translation: Minitext A.\]**
+
+\[WH\] Word Groups 7–12.
