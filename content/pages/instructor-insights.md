@@ -62,4 +62,4 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 #### **Out of Class**
 
-- Outside of class, students completed the assigned readings, studied vocabulary and grammar in preparation for exams and quizzes, and
+- Outside of class, students completed the assigned readings and studied vocabulary and grammar in preparation for exams and quizzes.
