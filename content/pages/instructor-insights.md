@@ -26,7 +26,7 @@ None
 #### **Requirements Satisfied**
 
 - 21L.601J can be applied toward a [Bachelor of Science in Literature](http://catalog.mit.edu/schools/humanities-arts-social-sciences/literature/#literature-bs-course-21-l), but is not required.
-- 21L.601J (as 24.916J) can be applied toward a [Bachelor of Science in Linguistics](21L.601 can be applied toward a Bachelor of Science in Literature, but is not required.), but is not required.
+- 21L.601J (as 24.916J) can be applied toward a \[Bachelor of Science in Linguistics\](21L.601 can be applied toward a Bachelor of Science in Literature, but is not required.), but is not required.
 - 21L.601J can be applied toward an [interdisciplinary concentration in Ancient and Medieval Studies](https://shass.mit.edu/undergraduate/interdisciplinary/conc/ancient-medieval), but is not required.
 - 21L.601J can be applied toward fulfilling MIT's [General Institute Requirement in Humanities and Social Sciences](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement), but is not required.
 
@@ -50,7 +50,7 @@ Fewer than 10 students
 
 #### **Student Background**
 
-Most were juniors or seniors, but there were a few sophomores and one first-year. Almost all had primary majors in science or engineering departments, but most had a second major in the School of Humanities and Social Sciences, concentrating in Ancient and Medieval Studies (AMS), Linguistics, and/or Literature.
+Most were juniors or seniors, but there were a few sophomores and one first-year student. Almost all had primary majors in science or engineering departments, but most had a second major in the School of Humanities and Social Sciences, concentrating in ancient and medieval studies (AMS), linguistics, and/or literature.
 
 ### **How Student Time Was Spent**
 
