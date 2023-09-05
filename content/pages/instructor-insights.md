@@ -38,7 +38,7 @@ About once a year
 
 Students’ grades were based on the following activities:
 
-- 75% Three exams (weighted as either 25%-25%-25% or 15%-25%-35%, whichever is more advantageous to the student's grade)
+- 75% Three exams (weighted either 25%-25%-25% or 15%-25%-35%, whichever is more advantageous to the student's grade)
 - 10% Daily vocabulary quizzes
 - 15% Attendance, participation, and preparation
 
