@@ -37,7 +37,9 @@ No readings assigned.
 
 \[M & R\], pp. 17–19 (Pronouns). \[Preview with [Google Books](https://www.google.com/books/edition/A_Guide_to_Old_English/hwzlYFlKlOoC?hl=en&gbpv=1)\]
 
-\[WE\] "The Wanderer," and "Deor." **\[In-class translation: Minitext A.\]**
+\[WE\] "The Wanderer," and "Deor." 
+
+**\[In-class translation: Minitext A.\]**
 
 \[WH\] Word Groups 7–12.
 
@@ -47,8 +49,20 @@ No readings assigned.
 
 \[M & R\], pp. 20–30 (Pronouns). \[Preview with [Google Books](https://www.google.com/books/edition/A_Guide_to_Old_English/hwzlYFlKlOoC?hl=en&gbpv=1)\]
 
-Burton Raffel's translations of the Elegies. In *Poems and Prose from the Old English*. 2<sup>nd</sup> ed. Yale University Press, 1998. ISBN: ‎9780300069952. 
+Burton Raffel's translations of the Elegies. In *Poems and Prose from the Old English*. 2<sup>nd</sup> ed. Yale University Press, 1998. ISBN: ‎9780300069952. 
 
- **\[In-class translation: Minitext B.\]**
+**\[In-class translation: Minitext B.\]**
 
 \[WH\] Word Groups 13–22.
+
+### Session 5
+
+\[IOE\], pp. 63–79 (Verbs, 7.1–7.4)
+
+**\[M & R\] Paragraph 93 as directed on the handout but otherwise don't both with their more detailed explanations yet!**
+
+**\[in class translation: excerpts from the Old English prose translation of Genesis\]**
+
+\[WH\] Word Groups 23–30.
+
+**\[I strongly urge you to use Old English Aerobics to drill verb forms over the weekend!\]**
