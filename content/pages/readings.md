@@ -57,7 +57,7 @@ Burton Raffel's translations of the Elegies. In *Poems and Prose from the Old En
 
 ### Session 5
 
-\[IOE\], pp. 63–79 (Verbs, 7.1–7.4)
+\[IOE\], pp. 63–79 (Verbs, 7.1–7.4).
 
 **\[M & R\] Paragraph 93 as directed on the handout but otherwise don't both with their more detailed explanations yet!**
 
@@ -65,4 +65,22 @@ Burton Raffel's translations of the Elegies. In *Poems and Prose from the Old En
 
 \[WH\] Word Groups 23–30.
 
-**\[I strongly urge you to use Old English Aerobics to drill verb forms over the weekend!\]**
+**\[I strongly urge you to use** [**Old English Aerobics**](http://www.oldenglishaerobics.net/) **to drill verb forms over the weekend!\]**
+
+### Session 6
+
+\[IOE\], pp. 79–95 (Finish Verbs plus Adjectives).
+
+\[M & R\] For more nitty-gritty about verbs, if you're interested.
+
+**\[in-class translation: Genesis, continued\]** 
+
+\[WH\] Word Groups 31–40.
+
+### Session 7
+
+\[IOE\], pp. 96–122 (Numerals; Adverbs, Conjunctions, and Prepositions; Concord; Word Order).
+
+\[M & R\] pp. 99–103, Ælfric's *Preface to Genesis,* lines 1–24.
+
+\[WH\] Word Groups 41–50.
