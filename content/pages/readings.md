@@ -73,7 +73,7 @@ Burton Raffel's translations of the Elegies. In *Poems and Prose from the Old En
 
 \[M & R\] For more nitty-gritty about verbs, if you're interested.
 
-**\[in-class translation: Genesis, continued\]** 
+**\[in-class translation: Genesis, continued\]**
 
 \[WH\] Word Groups 31–40.
 
@@ -81,6 +81,26 @@ Burton Raffel's translations of the Elegies. In *Poems and Prose from the Old En
 
 \[IOE\], pp. 96–122 (Numerals; Adverbs, Conjunctions, and Prepositions; Concord; Word Order).
 
-\[M & R\] pp. 99–103, Ælfric's *Preface to Genesis,* lines 1–24.
+\[M & R\], pp. 99–103, Ælfric's *Preface to Genesis,* lines 1–24.
 
 \[WH\] Word Groups 41–50.
+
+### Session 8
+
+\[M & R\], pp. 61–75 (Syntax).
+
+**Mock exam distributed (complete and bring to class for session 9).**
+
+\[M & R\] Ælfric's *Preface to Genesis,* lines 24–43.
+
+\[WH\] Word Groups 51–60.
+
+### Session 9
+
+**Discussion of mock exams.**
+
+\[M & R\] Ælfric's *Preface to Genesis,* lines 44–58.
+
+\[M & R\], pp. 75–96 (Syntax, continued).
+
+**No quiz.**
