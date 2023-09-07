@@ -155,7 +155,7 @@ No readings assigned.
 
 ### Session 16
 
-\[IOE\], Text 16, *Wulf and Eadwacer.* 
+\[IOE\], Text 16, *Wulf and Eadwacer.*
 
 **Discussion of mock exams.**
 
@@ -166,3 +166,41 @@ No readings assigned.
 **Exam 2 (Vocabulary, WH groups 1–135, and Translation, assisted and sight)**
 
 No readings assigned.
+
+## Unit Three: Longer Poems
+
+### Session 18
+
+\[IOE\], Text 13, *The Dream of the Rood,* lines 1**–**49.
+
+\[WH\] Word Groups 136–42.
+
+### Session 19
+
+\[IOE\], Text 13, *The Dream of the Rood,* lines 50–100.
+
+\[WH\] Word Groups 143–50.
+
+### Session 20
+
+\[IOE\], Text 13, *The Dream of the Rood,* lines 101–56.
+
+\[WH\] Word Groups 151–70.
+
+### Session 21
+
+\[B\]
+
+\[IOE\] *Beowulf*, lines 1–11.
+
+\[M & R\], p. 295, *Beowulf.*
+
+\[WH\] Word Groups 171–85.
+
+### Session 22
+
+\[B\] The Fight with Grendel (lines 702b–745a.)
+
+\[M & R\], p. 297–99, *Beowulf,* The Fight with Grendel.
+
+\[WH\] Word Groups 186–96.
