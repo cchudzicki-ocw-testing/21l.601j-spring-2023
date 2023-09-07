@@ -70,3 +70,131 @@ Attendance, participation, and preparation
 {{< tdclose >}}{{< tdopen >}}
 15%
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
+## Calendar
+
+### *Unit One: Old English Grammar and Short Prose*
+
+### Session 1: Course introduction; preliminary discussion of case system and pronunciation
+
+### Session 2
+
+Vocab quiz.
+
+### Session 3
+
+Vocab quiz.
+
+In-class translation: Minitext A.
+
+### Session 4
+
+Vocab quiz.
+
+In-class translation: Minitext B.
+
+### Session 5
+
+Vocab quiz.
+
+In-class translation: excerpts from the Old English prose translation of Genesis.
+
+\[I strongly urge you to use [Old English Aerobics](http://www.oldenglishaerobics.net/) to drill verb forms over the weekend!\]
+
+### Session 6
+
+Vocab quiz.
+
+In-class translation: Genesis, continued.
+
+### Session 7
+
+Vocab quiz.
+
+### Session 8
+
+Vocab quiz.
+
+Mock exam distributed (complete and bring to class for session 9).
+
+### Session 9
+
+Discussion of mock exams.
+
+### Session 10
+
+Exam 1 (On Cases, Declension of Pronouns, Noun and Verb Form Recognition, Principles of Syntax, and WH groups 1–60; will also include basic assisted and sight translation).
+
+### *Unit Two: Longer Prose and Short Poems*
+
+### Session 11
+
+Vocab quiz.
+
+### Session 12
+
+Vocab quiz.
+
+### Session 13
+
+Vocab quiz.
+
+### Session 14
+
+Vocab quiz.
+
+Mock exam distributed (to be discussed during session 16).
+
+### Session 15
+
+Vocab quiz.
+
+### Session 16
+
+Vocab quiz.
+
+Discussion of mock exams.
+
+### Session 17
+
+Exam 2 (Vocabulary, WH groups 1–135, and Translation, assisted and sight)
+
+### *Unit Three: Longer Poems*
+
+### Session 18
+
+Vocab quiz.
+
+### Session 19
+
+Vocab quiz.
+
+### Session 20
+
+Vocab quiz.
+
+### Session 21
+
+Vocab quiz.
+
+### Session 22
+
+Vocab quiz.
+
+### Session 23
+
+Vocab quiz.
+
+### Session 24
+
+Vocab quiz.
+
+### Session 25
+
+Vocab quiz.
+
+Discussion of Exam 3; subject evaluations to be completed in class.
+
+### Session 26
+
+Exam 3 (Covering all of *Word-Hoard* and Translation, assisted and sight).
