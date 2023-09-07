@@ -1,8 +1,8 @@
 ---
 content_type: page
-description: This section contains general course information.
+description: This section contains general course information and a course calendar.
 draft: false
-title: Syllabus
+title: Syllabus and Calendar
 uid: 2b7fed0e-24ce-4b2c-a030-f50943e61bd2
 ---
 ## Course Meeting Times
