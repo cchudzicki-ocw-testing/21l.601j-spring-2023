@@ -104,3 +104,37 @@ Burton Raffel's translations of the Elegies. In *Poems and Prose from the Old En
 \[M & R\], pp. 75–96 (Syntax, continued).
 
 **No quiz.**
+
+### Session 10
+
+**Exam 1 (On Cases, Declension of Pronouns, Noun and Verb Form Recognition, Principles of Syntax, and WH groups 1–60; will also include basic assisted and sight translation).**
+
+No readings assigned.
+
+## Unit Two: Longer Prose and Short Poems
+
+### Session 11
+
+\[IOE\], pp. 119–41 (Meter and Poetic Style).
+
+\[M & R\] Ælfric's *Preface to Genesis,* lines 59–80.
+
+\[M & R\], pp. 228–33, Bede's Account of the Poet Caedmon, lines 1–17.
+
+\[WH\] Word Groups 61–72.
+
+### Session 12
+
+\[IOE\], pp. 152–69 (The Grammar of Poetry; Reading Old English Manuscripts).
+
+\[M & R\], pp. 228–33, Bede's Account of the Poet Caedmon, lines 18–60.
+
+\[WH\] Word Groups 73–85.
+
+### Session 13
+
+\[M & R\], pp. 239–48, Riddles C, E, and L.
+
+\[IOE\], pp. 223–27, Riddle A.
+
+\[WH\] Word Groups 86–98.
