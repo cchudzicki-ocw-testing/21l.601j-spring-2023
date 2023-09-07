@@ -1,6 +1,6 @@
 leftnav:
 - identifier: 2b7fed0e-24ce-4b2c-a030-f50943e61bd2
-  name: Syllabus
+  name: Syllabus and Calendar
   pageRef: /pages/syllabus
   weight: 10
 - identifier: 00287e91-1c5d-408d-a27b-65c2c99a0a94
