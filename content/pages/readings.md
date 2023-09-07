@@ -193,14 +193,42 @@ No readings assigned.
 
 \[IOE\] *Beowulf*, lines 1–11.
 
-\[M & R\], p. 295, *Beowulf.*
+\[M & R\], p. 295.
 
 \[WH\] Word Groups 171–85.
 
 ### Session 22
 
-\[B\] The Fight with Grendel (lines 702b–745a.)
+\[B\] The Fight with Grendel (lines 702b–745a).
 
-\[M & R\], p. 297–99, *Beowulf,* The Fight with Grendel.
+\[M & R\], p. 297–99.
 
 \[WH\] Word Groups 186–96.
+
+### Session 23
+
+\[B\] The Fight with Grendel, continued (lines 745b–790).
+
+\[WH\] Word Groups 197–210.
+
+### Session 24
+
+\[B\] The Death of Grendel (lines 791–852).
+
+\[M & R\], p. 299–301.
+
+\[WH\] Word Groups 211–27. (Congratulations, you now know the 2000 most commonly used words of Old English poetry!!!)
+
+### Session 25
+
+\[B\] The Lay of the Last Survivor and Beowulf's Funeral (lines 2247–66, and 3157–82).
+
+\[M & R\], p. 307–08.
+
+\[WH\] Word Groups 211–27. (Congratulations, you now know the 2000 most commonly used words of Old English poetry!!!)
+
+**Discussion of Exam 3; subject evaluations to be completed in class.**
+
+### Session 26
+
+**Exam 3 (Covering all of** ***Word-Hoard*** **and Translation, assisted and sight)**
