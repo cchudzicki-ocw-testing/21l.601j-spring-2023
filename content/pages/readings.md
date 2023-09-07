@@ -138,3 +138,31 @@ No readings assigned.
 \[IOE\], pp. 223–27, Riddle A.
 
 \[WH\] Word Groups 86–98.
+
+### Session 14
+
+\[IOE\], Text 17, *The Wife's Lament.*
+
+**Mock exam distributed (to be discussed during session 16).**
+
+\[WH\] Word Groups 99–110.
+
+### Session 15
+
+\[IOE\], Text 18, *The Husband's Message.*
+
+\[WH\] Word Groups 111–23.
+
+### Session 16
+
+\[IOE\], Text 16, *Wulf and Eadwacer.* 
+
+**Discussion of mock exams.**
+
+\[WH\] Word Groups 124–35.
+
+### Session 17
+
+**Exam 2 (Vocabulary, WH groups 1–135, and Translation, assisted and sight)**
+
+No readings assigned.
