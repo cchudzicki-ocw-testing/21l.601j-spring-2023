@@ -6,11 +6,16 @@ file: /courses/21l-601j-old-english-and-beowulf-spring-2023/21l-601js23-th.jpg
 file_size: 6942
 file_type: image/jpeg
 image_metadata:
-  caption: ''
+  caption: "*Beowulf Face to Face with the Fire-breathing Dragon*. Image taken from\
+    \ the book\_ \n\n*Myths and legends of all nations; famous stories from the Greek,\
+    \ German, English, Spanish, Scandinavian, Danish, French, Russian, Bohemian, Italian\
+    \ and other sources* (1914) by Logan Marshall. This image is in the public domain.\
+    \ Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beowulf_face_to_face_with_fire-breathing_Dragon.jpg)."
   credit: ''
-  image-alt: ''
+  image-alt: 'A man carrying a sword and a shield of armor stands upon a rock, near
+    a reptile with smoke coming out of its nose. '
 learning_resource_types: []
-license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+license: https://creativecommons.org/publicdomain/zero/1.0/
 resourcetype: Image
 title: 21l-601js23-th.jpg
 uid: 3d4ceafe-2313-4be3-b8c7-a9f74a60cb5b
