@@ -11,6 +11,10 @@ leftnav:
   name: Readings
   pageRef: /pages/readings
   weight: 30
+- identifier: 90ed45e4-6422-4087-8eb1-369df473fa24
+  name: Exams
+  pageRef: /pages/exams
+  weight: 40
 - identifier: c5861f35-69ab-4fa9-9b3b-71a792b86ec4
   name: The Challenge of Learning Old English
   pageRef: /pages/the-challenge-of-learning-old-english
