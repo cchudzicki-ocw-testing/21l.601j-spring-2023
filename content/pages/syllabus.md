@@ -115,7 +115,7 @@ Vocab quiz.
 
 Vocab quiz.
 
-Mock exam distributed (complete and bring to class for session 9).
+{{% resource_link "5c62b3b7-8209-430f-95aa-abf2db6ddde8" "Mock Exam 1 (PDF)" %}} distributed (complete and bring to class for session 9).
 
 ### *Session 9*
 
@@ -143,7 +143,7 @@ Vocab quiz.
 
 Vocab quiz.
 
-Mock exam distributed (to be discussed during session 16).
+Mock Exam 2 distributed (to be discussed during session 16).
 
 ### *Session 15*
 
