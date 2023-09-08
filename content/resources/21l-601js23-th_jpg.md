@@ -9,8 +9,8 @@ image_metadata:
   caption: '*Beowulf Face to Face with the Fire-breathing Dragon*. Image taken from
     the book *Myths and Legends of All Nations; Famous Stories from the Greek, German,
     English, Spanish, Scandinavian, Danish, French, Russian, Bohemian, Italian and
-    Other Sources* (1914) by Logan Marshall. This image is in the public domain. Source:
-    [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beowulf_face_to_face_with_fire-breathing_Dragon.jpg).'
+    Other Sources* (1914) by Logan Marshall. (This image is in the public domain.
+    Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beowulf_face_to_face_with_fire-breathing_Dragon.jpg).)'
   credit: ''
   image-alt: 'A man carrying a sword and a shield of armor stands upon a rock, near
     a reptile with smoke coming out of its nose. '
