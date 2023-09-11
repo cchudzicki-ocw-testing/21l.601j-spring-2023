@@ -5,7 +5,7 @@ draft: false
 title: Readings
 uid: a0af5939-e450-481c-9869-3183e49c4fb6
 ---
-\[B\] *Beowulf,* trans. Seamus Heaney (Norton), 2001. ISBN: ‎9780393320978. \[Preview with [Google Books](https://www.google.com/books/edition/Beowulf_a_New_Verse_Translation_Bilingua/m-7crEM3A0AC?hl=en&gbpv=1)\]
+\[B\] *Beowulf,* trans. Seamus Heaney (Norton), 2001. ISBN: ‎9780393320978. 
 
 \[IOE\] Peter Baker, *Introduction to Old English,* 3<sup>rd</sup> edition (Wiley-Blackwell), 2012. ISBN: 9780470659847. 
 
@@ -39,8 +39,6 @@ No readings assigned.
 
 \[WE\] "The Wanderer," and "Deor." 
 
-**\[In-class translation: Minitext A.\]**
-
 \[WH\] Word Groups 7–12.
 
 ### Session 4
@@ -51,29 +49,23 @@ No readings assigned.
 
 Burton Raffel's translations of the Elegies. In *Poems and Prose from the Old English*. 2<sup>nd</sup> ed. Yale University Press, 1998. ISBN: ‎9780300069952. 
 
-**\[In-class translation: Minitext B.\]**
-
 \[WH\] Word Groups 13–22.
 
 ### Session 5
 
 \[IOE\], pp. 63–79 (Verbs, 7.1–7.4).
 
-**\[M & R\] Paragraph 93 as directed on the handout but otherwise don't both with their more detailed explanations yet!**
-
-**\[in class translation: excerpts from the Old English prose translation of Genesis\]**
+\[M & R\] Paragraph 93.
 
 \[WH\] Word Groups 23–30.
 
-**\[I strongly urge you to use** [**Old English Aerobics**](http://www.oldenglishaerobics.net/) **to drill verb forms over the weekend!\]**
+\[I strongly urge you to use [Old English Aerobics](http://www.oldenglishaerobics.net/) to drill verb forms over the weekend!\]
 
 ### Session 6
 
 \[IOE\], pp. 79–95 (Finish Verbs plus Adjectives).
 
 \[M & R\] For more nitty-gritty about verbs, if you're interested.
-
-**\[in-class translation: Genesis, continued\]**
 
 \[WH\] Word Groups 31–40.
 
@@ -89,25 +81,17 @@ Burton Raffel's translations of the Elegies. In *Poems and Prose from the Old En
 
 \[M & R\], pp. 61–75 (Syntax).
 
-**Mock exam distributed (complete and bring to class for session 9).**
-
 \[M & R\] Ælfric's *Preface to Genesis,* lines 24–43.
 
 \[WH\] Word Groups 51–60.
 
 ### Session 9
 
-**Discussion of mock exams.**
-
 \[M & R\] Ælfric's *Preface to Genesis,* lines 44–58.
 
 \[M & R\], pp. 75–96 (Syntax, continued).
 
-**No quiz.**
-
 ### Session 10
-
-**Exam 1 (On Cases, Declension of Pronouns, Noun and Verb Form Recognition, Principles of Syntax, and WH groups 1–60; will also include basic assisted and sight translation).**
 
 No readings assigned.
 
@@ -143,8 +127,6 @@ No readings assigned.
 
 \[IOE\], Text 17, *The Wife's Lament.*
 
-**Mock exam distributed (to be discussed during session 16).**
-
 \[WH\] Word Groups 99–110.
 
 ### Session 15
@@ -157,13 +139,9 @@ No readings assigned.
 
 \[IOE\], Text 16, *Wulf and Eadwacer.*
 
-**Discussion of mock exams.**
-
 \[WH\] Word Groups 124–35.
 
 ### Session 17
-
-**Exam 2 (Vocabulary, WH groups 1–135, and Translation, assisted and sight)**
 
 No readings assigned.
 
@@ -189,7 +167,7 @@ No readings assigned.
 
 ### Session 21
 
-\[B\]
+\[B\] 
 
 \[IOE\] *Beowulf*, lines 1–11.
 
@@ -227,8 +205,6 @@ No readings assigned.
 
 \[WH\] Word Groups 211–27. (Congratulations, you now know the 2000 most commonly used words of Old English poetry!!!)
 
-**Discussion of Exam 3; subject evaluations to be completed in class.**
-
 ### Session 26
 
-**Exam 3 (Covering all of** ***Word-Hoard*** **and Translation, assisted and sight)**
+No readings assigned.
