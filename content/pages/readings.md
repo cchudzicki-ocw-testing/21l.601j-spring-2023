@@ -203,8 +203,6 @@ No readings assigned.
 
 \[M & R\], p. 307–08.
 
-\[WH\] Word Groups 211–27. (Congratulations, you now know the 2000 most commonly used words of Old English poetry!!!)
-
 ### Session 26
 
 No readings assigned.
